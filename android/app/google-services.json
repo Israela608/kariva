@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4122666098",
+    "project_id": "kariva-2bec2",
+    "storage_bucket": "kariva-2bec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4122666098:android:9db67bb76b651f53d7ceeb",
+        "android_client_info": {
+          "package_name": "com.example.kariva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4122666098-b8mom13tgpt4fhldnrdgrvdftn7om5du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDrl5-CbUAUtqDI5xczm-8gx2qKgq6pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4122666098-b8mom13tgpt4fhldnrdgrvdftn7om5du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
