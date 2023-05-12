@@ -77,7 +77,7 @@ The app is connected to a Laravel backend through REST API. The backend was also
 - Start the backend server by hosting it on your local machine using XAMPP, Composer, and PHPMyAdmin.
 
 - Update the lib/utils/constants.dart file with your local machine's IP address:  
-  const String BASE_API_URL = "http://YOUR_LOCAL_MACHINE_IP_ADDRESS/Kariva-backend/public/api";
+  ##### const String BASE_API_URL = "http://YOUR_LOCAL_MACHINE_IP_ADDRESS/Kariva-backend/public/api";
 
 - Run the application using the flutter run command.
 
