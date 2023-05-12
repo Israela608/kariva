@@ -4,44 +4,44 @@ Kariva is a mobile application built using Flutter that serves as a platform for
 
 ## Screenshots
 
-Insert here a few screenshots of the app to show its interface and design.
+Here are some screenshots of the app:
 
 ## Features
 
-### Show Products Based on Category
+#### Show Products Based on Category
 Kariva allows users to browse and search for products based on category. Users can view products and their details, including images, prices, and descriptions.
 
-### Shopping Cart
+#### Shopping Cart
 The app includes a shopping cart that allows users to add items to their cart and view the total cost. They can also modify or remove items from the cart.
 
-### Place Order
+#### Place Order
 Users can place an order after adding items to their cart. They can select a delivery location and choose from available payment methods.
 
-### Track Order
+#### Track Order
 The app includes a tracking feature that allows users to track the status of their order.
 
-### User Profile
+#### User Profile
 Kariva includes a user profile section that displays a user's personal information and order history.
 
-### Sign In and Sign Up
+#### Sign In and Sign Up
 Users can sign in to the app using their email and password. They can also create a new account by providing their personal information and email address.
 
-### User Address Location from Google Map
+#### User Address Location from Google Map
 The app uses Google Maps to enable users to choose a delivery location by searching for an address or dropping a pin on the map.
 
-### Zone-Based Order
+#### Zone-Based Order
 Kariva offers zone-based ordering, which means that users can only place orders within a specific geographic area.
 
-### User Authentication
+#### User Authentication
 The app uses user authentication to ensure that only authorized users can access their account and place orders.
 
-### Firebase Notification
+#### Firebase Notification
 The app is integrated with Firebase notification to provide users with real-time updates on their orders.
 
-### PayPal Payment Integration
+#### PayPal Payment Integration
 Kariva includes PayPal payment integration, which allows users to pay for their orders using PayPal.
 
-### See Order Details
+#### See Order Details
 Users can view the details of their order, including items, prices, and delivery details.
 
 
@@ -76,7 +76,8 @@ The app is connected to a Laravel backend through REST API. The backend was also
 
 - Start the backend server by hosting it on your local machine using XAMPP, Composer, and PHPMyAdmin.
 
-- Update the lib/utils/constants.dart file with your local machine's IP address: const String BASE_API_URL = "http://YOUR_LOCAL_MACHINE_IP_ADDRESS/Kariva-backend/public/api";
+- Update the lib/utils/constants.dart file with your local machine's IP address:  
+  const String BASE_API_URL = "http://YOUR_LOCAL_MACHINE_IP_ADDRESS/Kariva-backend/public/api";
 
 - Run the application using the flutter run command.
 
